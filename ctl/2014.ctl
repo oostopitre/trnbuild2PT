@@ -1,0 +1,6 @@
+Modechanger_InputFile:TROUTE_14A_trnbuild.lin
+Modechanger_OutputFile:TROUTE_14A_modechange.lin
+Trn2PT_InputFile:TROUTE_14A_modechange.lin
+Trn2PT_OutFile:TROUTE_14A_PT.lin
+ModeFile:Modes.ctl
+FormatFile:Formats.ctl

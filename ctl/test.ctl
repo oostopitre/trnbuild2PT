@@ -1,0 +1,3 @@
+Trn2PT_InputFile:test_trnbuild.lin
+Trn2PT_OutFile:test_PT.lin
+FormatFile:nodeSeq.ctl
