@@ -1,6 +1,6 @@
 /*
 
-Written by: Abishek K, AECOM
+Written by: Abishek K
 Program to change mode numbers in a Trnbuild transit line file  ( for TBRPM 7 Model)
 Algorithmically it is just a search, replace program
 
